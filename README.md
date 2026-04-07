@@ -2,7 +2,7 @@
   Hi there, and welcome! I'm Nassim 👋
 </h1>
 
-<h3 align="center">UX Engineering • 3D Realtime Graphics</h3>
+<h3 align="center">UX Engineering&nbsp;&nbsp;•&nbsp;&nbsp;3D Realtime Graphics</h3>
 
 <br/>
 
