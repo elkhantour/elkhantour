@@ -22,9 +22,9 @@ UX Engineering • 3D Realtime Graphics
   </li>
 </ul>
 
-<h2 align="center">Tech Stack</h2>
+<h2>Tech Stack</h2>
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="33%">
 
