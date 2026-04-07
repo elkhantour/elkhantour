@@ -35,26 +35,27 @@ UX Engineering • 3D Realtime Graphics
 <tr>
 <td align="center">
 
+<br/>
 <p>
 <img src="https://img.shields.io/badge/C-6A5ACD?style=plastic&logo=c&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white" />
 </p>
-
+<br/>
 </td>
 
 <td align="center">
-
+<br/>
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
 </p>
-
+<br/>
 </td>
 
 <td align="center">
-
+<br/>
 <p>
 <img src="https://img.shields.io/badge/WebGPU-1E3A8A?style=plastic&logo=wgpu&logoColor=white"" />
 &nbsp;
@@ -62,7 +63,7 @@ UX Engineering • 3D Realtime Graphics
 &nbsp;
 <img src="https://img.shields.io/badge/WASM-654FF0?style=plastic&logo=webassembly&logoColor=white" />
 </p>
-
+<br/>
 </td>
 </tr>
 </table>
