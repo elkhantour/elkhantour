@@ -26,7 +26,7 @@ UX Engineering • 3D Realtime Graphics
 
 <table width="100%">
 <tr>
-<td align="center" width="33%">
+<td align="center">
 
 ### 🧠 Systems & Software
 
@@ -38,7 +38,7 @@ UX Engineering • 3D Realtime Graphics
 
 </td>
 
-<td align="center" width="33%">
+<td align="center">
 
 ### 🌐 Web & Frontend
 
@@ -50,7 +50,7 @@ UX Engineering • 3D Realtime Graphics
 
 </td>
 
-<td align="center" width="33%">
+<td align="center">
 
 ### 🎮 Graphics & Realtime
 
