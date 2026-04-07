@@ -22,10 +22,6 @@ UX Engineering • 3D Realtime Graphics
   </li>
 </ul>
 
-<br/>
-
-<br/>
-
 <h2>Links</h2>
 
 <ul>
