@@ -30,9 +30,11 @@ UX Engineering • 3D Realtime Graphics
 
 ### 🧠 Systems & Software
 
+<p>
 <img src="https://img.shields.io/badge/C-6A5ACD?style=plastic&logo=c&logoColor=white" />
-<br/>
+&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white" />
+</p>
 
 </td>
 
@@ -40,11 +42,13 @@ UX Engineering • 3D Realtime Graphics
 
 ### 🌐 Web & Frontend
 
+<p>
 <img src="https://img.shields.io/badge/JavaScript-FF6F00?style=plastic&logo=javascript&logoColor=white" />
-<br/>
+&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
-<br/>
+&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
+</p>
 
 </td>
 
@@ -52,11 +56,13 @@ UX Engineering • 3D Realtime Graphics
 
 ### 🎮 Graphics & Realtime
 
-<img src="https://img.shields.io/badge/WebGPU-1E3A8A?style=plastic" />
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/WebGPU-1E3A8A?style=plastic" />
+&nbsp;
 <img src="https://img.shields.io/badge/WebGL-990000?style=plastic" />
-<br/>
+&nbsp;
 <img src="https://img.shields.io/badge/WASM-654FF0?style=plastic&logo=webassembly&logoColor=white" />
+</p>
 
 </td>
 </tr>
