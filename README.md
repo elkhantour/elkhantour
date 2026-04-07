@@ -39,6 +39,8 @@ UX Engineering • 3D Realtime Graphics
 <img src="https://img.shields.io/badge/C-6A5ACD?style=plastic&logo=c&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/WASM-654FF0?style=plastic&logo=webassembly&logoColor=white" />
 </p>
 
 </td>
@@ -60,7 +62,7 @@ UX Engineering • 3D Realtime Graphics
 &nbsp;
 <img src="https://img.shields.io/badge/WebGL-990000?style=plastic&logo=webgl&logoColor=white"" />
 &nbsp;
-<img src="https://img.shields.io/badge/WASM-654FF0?style=plastic&logo=webassembly&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=unity&logoColor=white" />
 </p>
 
 </td>
