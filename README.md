@@ -24,7 +24,7 @@ UX Engineering • 3D Realtime Graphics
 
 <h2>Tech Stack</h2>
 
-<table width="100%">
+<table align="center">
 
 <tr>
 <th align="center">Systems</th>
