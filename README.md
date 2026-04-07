@@ -27,9 +27,9 @@ UX Engineering • 3D Realtime Graphics
 <table width="100%">
 
 <tr>
-<th align="center">Systems & Software</th>
-<th align="center">Web & Frontend</th>
-<th align="center">Graphics & Realtime</th>
+<th align="center">Systems</th>
+<th align="center">Frontend</th>
+<th align="center">Graphics</th>
 </tr>
 
 <tr>
