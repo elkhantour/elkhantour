@@ -30,5 +30,7 @@ UX Engineer • 3D Realtime Graphics
 
 <ul>
   <li><a href="https://elkhantour.com" target="_blank">Portfolio</a></li>
-  <li><a href="https://vimeo.com/elkhantour" target="_blank">Video Productions</a></li>
+  <li><a href="https://vimeo.com/elkhantour" target="_blank">Github</a></li> 
+  <li><a href="https://vimeo.com/elkhantour" target="_blank">Vimeo</a></li>
+  <li><a href="https://www.artstation.com/elkhantour" target="_blank">ArtStation</a></li>
 </ul>
