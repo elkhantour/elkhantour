@@ -4,6 +4,16 @@
 UX Engineering • 3D Realtime Graphics
 </h4>
 
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/WebGPU-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
+</p>
+
 <br/>
 
 <h3>Nassim El Khantour</h3>
