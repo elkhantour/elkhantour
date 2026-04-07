@@ -4,20 +4,6 @@
 UX Engineering • 3D Realtime Graphics
 </h4>
 
-<p align="center">
-  &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/C-6A5ACD?style=plastic&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-FF6F00?style=plastic&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/WebGPU-1E3A8A?style=plastic&logo=wgpu&logoColor=white" />
-<img src="https://img.shields.io/badge/WebGL-990000?style=plastic&logo=webgl&logoColor=white" />
-<img src="https://img.shields.io/badge/WASM-654FF0?style=plastic&logo=webassembly&logoColor=white" />
-</p>
-
 <br/>
 
 <h3>Nassim El Khantour</h3>
@@ -35,6 +21,46 @@ UX Engineering • 3D Realtime Graphics
     <strong>UX Engineer</strong>, building tools and workflows that improve collaboration between design and development teams.
   </li>
 </ul>
+
+<h2 align="center">Tech Stack</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🧠 Systems & Software
+
+<img src="https://img.shields.io/badge/C-6A5ACD?style=plastic&logo=c&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white" />
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐 Web & Frontend
+
+<img src="https://img.shields.io/badge/JavaScript-FF6F00?style=plastic&logo=javascript&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎮 Graphics & Realtime
+
+<img src="https://img.shields.io/badge/WebGPU-1E3A8A?style=plastic" />
+<br/>
+<img src="https://img.shields.io/badge/WebGL-990000?style=plastic" />
+<br/>
+<img src="https://img.shields.io/badge/WASM-654FF0?style=plastic&logo=webassembly&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 <h2>Links</h2>
 
