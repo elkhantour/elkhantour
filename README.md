@@ -28,7 +28,7 @@ UX Engineering • 3D Realtime Graphics
 <tr>
 <td align="center">
 
-### 🧠 Systems & Software
+<h3> 🧠 Systems & Software </h3>
 
 <p>
 <img src="https://img.shields.io/badge/C-6A5ACD?style=plastic&logo=c&logoColor=white" />
@@ -40,7 +40,7 @@ UX Engineering • 3D Realtime Graphics
 
 <td align="center">
 
-### 🌐 Web & Frontend
+<h3> 🌐 Web & Frontend </h3>
 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
@@ -52,7 +52,7 @@ UX Engineering • 3D Realtime Graphics
 
 <td align="center">
 
-### 🎮 Graphics & Realtime
+<h3> 🎮 Graphics & Realtime </h3>
 
 <p>
   <img src="https://img.shields.io/badge/WebGPU-1E3A8A?style=plastic" />
