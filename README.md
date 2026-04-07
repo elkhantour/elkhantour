@@ -1,9 +1,8 @@
 <h1 align="center">
   Hi there, and welcome! I'm Nassim 👋
-  <br/>
-  <small>UX Engineering • 3D Realtime Graphics</small>
 </h1>
 
+<h3 align="center">UX Engineering • 3D Realtime Graphics</h3>
 
 <br/>
 
