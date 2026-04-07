@@ -6,7 +6,7 @@
 
 <br/>
 
-<h3>Nassim El Khantour</h3>
+<h4>Nassim El Khantour</h4>
 
 <p>I build tools, engines, and interactive experiences that bridge design and technology.</p>
 
