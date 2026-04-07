@@ -15,10 +15,10 @@ UX Engineer • 3D Realtime Graphics
     <strong>Owner and Developer of a WebGPU-based 3D Engine</strong>, built from scratch using C, C++, and WebAssembly, focused on performance and data-oriented architecture.
   </li>
   <li>
-    <strong>Live Visual Designer & Creative Technologist</strong>, creating realtime visuals and immersive experiences for live performances and events.
+    <strong>Live Visual Designer</strong>, creating realtime visuals and immersive experiences for live performances and events.
   </li>
   <li>
-    <strong>Design Engineer</strong>, building tools and workflows that improve collaboration between design and development teams.
+    <strong>UX Engineer</strong>, building tools and workflows that improve collaboration between design and development teams.
   </li>
 </ul>
 
