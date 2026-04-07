@@ -43,8 +43,6 @@ UX Engineering • 3D Realtime Graphics
 ### 🌐 Web & Frontend
 
 <p>
-<img src="https://img.shields.io/badge/JavaScript-FF6F00?style=plastic&logo=javascript&logoColor=white" />
-&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
