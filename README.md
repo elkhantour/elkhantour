@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Nassim, welcome! 👋</h1>
+<h1 align="center">Hi there, and welcome! I'm Nassim 👋</h1>
 
-<p align="center">
+<h4 align="center">
 UX Engineer • 3D Realtime Graphics
-</p>
+</h4>
 
 <br/>
 
